@@ -1,5 +1,7 @@
 # CodingAssignment
 
+Project is placed in DataProcessor zip file, kindly download and unzip the same to view the project.
+
 Business rules and logic is stored in business folder of the project
 	Sub folder of contract and implementation are created to make the code loosely coupled
 	For example process contracts only gives contract method to process data, depending on the data type chosen we can have implementation from implementation classes of     various data types
